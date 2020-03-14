@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,thelancet.com
 DOMAIN-SUFFIX,biorxiv.org
+DOMAIN-SUFFIX,bmj.com
 
 ## 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
