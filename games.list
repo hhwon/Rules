@@ -1,6 +1,9 @@
 # proxy
 
 DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendowifi.net
 
 #Nintendo Switch
 IP-CIDR,139.178.128.0/18,no-resolve
