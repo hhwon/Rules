@@ -1,0 +1,41 @@
+payload:
+  # 中国知网
+  - DOMAIN-KEYWORD,cnki.net
+
+  # 万方
+  - DOMAIN-KEYWORD,wanfangdata
+
+  # 法律数据库
+  - DOMAIN-KEYWORD,pkulaw
+  - DOMAIN-KEYWORD,westlawchina
+  # SCI 综合
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,blackwell-synergy.com
+  - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,jstor.org
+  - DOMAIN-SUFFIX,cabdirect.org
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,osapublishing.org
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,webofknowledge.com
+  ## Willey 旗下
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-KEYWORD,readcube
+  ## Elsevier 旗下
+  - DOMAIN-SUFFIX,scopus.com
+  - DOMAIN-KEYWORD,sciencedirect
+  - DOMAIN-KEYWORD,elsevier
+  - DOMAIN-KEYWORD,deepdyve
+  - DOMAIN-KEYWORD,els-cdn
+  ## Others
+  - DOMAIN-SUFFIX,engineeringvillage.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,thelancet.com
+  - DOMAIN-SUFFIX,biorxiv.org
+  - DOMAIN-SUFFIX,bmj.com
+  ## 告别出版商绑架
+  - DOMAIN-KEYWORD,sci-hub
+  ## 教育网
+  - DOMAIN-SUFFIX,edu.cn
