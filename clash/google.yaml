@@ -57,3 +57,6 @@ payload:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-SUFFIX,pdf.new
+  - DOMAIN-SUFFIX,compresspdf.new
+  - DOMAIN-SUFFIX,sign.new
