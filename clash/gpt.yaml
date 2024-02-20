@@ -10,6 +10,10 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,arkoselabs.com
   # Add ai.com
   - DOMAIN-SUFFIX,ai.com
   # Add stripe.com
