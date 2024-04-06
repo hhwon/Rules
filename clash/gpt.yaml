@@ -1,19 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,pay.openai.com
-  - DOMAIN-SUFFIX,identrust.com
-  - DOMAIN,openaiapi-site.azureedge.net
+# OpenAI (ChatGPT)
   - DOMAIN-SUFFIX,chat.openai.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
-  - DOMAIN-SUFFIX,platform.openai.com
-  - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,cdn.openai.com
+  - DOMAIN-SUFFIX,openai.com,OpenAI
+  - DOMAIN-SUFFIX,ingest.sentry.io
+  - DOMAIN-SUFFIX,client.crisp.chat
   # Add ai.com
   - DOMAIN-SUFFIX,ai.com
   # Add stripe.com
@@ -24,17 +16,17 @@ payload:
   # Add bard.google.com
   - DOMAIN-SUFFIX,bard.google.com
   # Bing
- - DOMAIN-SUFFIX,msxiaobing.com
- - DOMAIN-SUFFIX,bing.com
- - DOMAIN-SUFFIX,bing123.com
- - DOMAIN-SUFFIX,bing135.com
- - DOMAIN-SUFFIX,bing4.com
- - DOMAIN-SUFFIX,bing.com.bo
- - DOMAIN-SUFFIX,bing.com.co
- - DOMAIN-SUFFIX,bing.com.cy
- - DOMAIN-SUFFIX,bing.com.gt
- - DOMAIN-SUFFIX,bing.jp
- - DOMAIN-SUFFIX,bing.cn
- - DOMAIN-SUFFIX,bing.net
- - DOMAIN-SUFFIX,bingapis.com
- - DOMAIN-SUFFIX,bingforbusiness.com
+  - DOMAIN-SUFFIX,msxiaobing.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing123.com
+  - DOMAIN-SUFFIX,bing135.com
+  - DOMAIN-SUFFIX,bing4.com
+  - DOMAIN-SUFFIX,bing.com.bo
+  - DOMAIN-SUFFIX,bing.com.co
+  - DOMAIN-SUFFIX,bing.com.cy
+  - DOMAIN-SUFFIX,bing.com.gt
+  - DOMAIN-SUFFIX,bing.jp
+  - DOMAIN-SUFFIX,bing.cn
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingforbusiness.com
