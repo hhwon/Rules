@@ -1,25 +1,24 @@
 payload:
-# Author: 可莉🅥
-# ChatGPT 2024-03-30 18:38:16
-  - DOMAIN,api.statsig.com
+# UPDATED: 2024-07-03 16:18:28
+payload:
   - DOMAIN,browser-intake-datadoghq.com
-  - DOMAIN,cdn.openai.com
-  - DOMAIN,chat.openai.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,ios.chat.openai.com
-  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,gemini.google.com
   - DOMAIN,openai-api.arkoselabs.com
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN,production-openaicom-storage.azureedge.net
   - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,client-api.arkoselabs.com
   - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
@@ -30,11 +29,14 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
-  - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-KEYWORD,openaicom-api
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-KEYWORD,openai
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
+  - IP-ASN,20473
 
 # Copilot 2024-04-14 16:05:36
   - DOMAIN,api.githubcopilot.com
